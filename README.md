@@ -1,15 +1,8 @@
-# ShaimunQA
-Welcome to my QA portfolio!
-This repository highlights my hands-on experience in software quality assurance, featuring:
+# 🧪 QA Portfolio – Shaimun Nakib
 
-✅ Manual test scenarios with traceability to requirements
+Welcome to my QA portfolio! This repository highlights my practical experience in software quality assurance, featuring real-world examples of test planning, manual testing, automation, API testing, and bug tracking.
 
-🤖 Automation scripts using Selenium WebDriver and JavaScript/Python
+---
 
-🧪 API testing collections using Postman
+## 📂 Project Structure
 
-🐞 Sample bug reports and JIRA-style documentation
-
-📊 SQL queries for data validation
-
-📂 Organized test suites and execution logs
