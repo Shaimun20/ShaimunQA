@@ -5,7 +5,15 @@ Welcome to my QA portfolio! This repository highlights my practical experience i
 ---
 
 ## 📂 Project Structure
-
+ShaimunQA/
+├── test-cases/ # Manual test cases (Excel or Markdown)
+├── automation/ # Automation scripts (e.g., Selenium, Cypress)
+├── postman/ # Postman collections and environments
+├── bug-reports/ # Sample bug reports (PDF, CSV, or screenshots)
+├── test-data/ # Sample test data for validation
+├── docs/ # Test plans, strategy docs, etc.
+├── .gitignore
+└── README.md
 
 ---
 
